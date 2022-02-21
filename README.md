@@ -2,7 +2,7 @@
 ![Demo](example.gif?raw=true)
 ## Overview
 
-## Test1
+## Test2
 
 A React component which makes it easy to create a directed graph editor without implementing any of the SVG drawing or event handling logic.
 
